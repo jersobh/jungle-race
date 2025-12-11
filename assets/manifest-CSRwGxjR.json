@@ -1,0 +1,10 @@
+{
+    "short_name": "Jungle Race",
+    "name": "Jungle Race",
+    "icons": [],
+    "start_url": ".",
+    "display": "fullscreen",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "orientation": "landscape"
+}
